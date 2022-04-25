@@ -214,10 +214,11 @@ justify-content: safe left;
 
 section{
     background-color: #337CB2 ;
-    padding: 20px;
+    padding: 25px;
     margin: 0;
-    border-style: groove;
     border-bottom: none;
+    width: 90%;
+    height: 100%;
 }
 
 .quote_title{
