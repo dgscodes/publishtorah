@@ -31,9 +31,9 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .container{
-    max-width: 990px; /*Limits the width of the container but let's it get smaller if needed.*/
+    max-width: 1000px; /*Limits the width of the container but let's it get smaller if needed.*/
     margin: 0 auto; /*Center the container horizontally in the middle of the page.*/
-    padding: 12px;
+    padding: 10px;
 }
 
 section{
@@ -276,3 +276,8 @@ ul{
     transform: translateY(-10px);
   }
 </style>
+
+
+.doron{
+    text-align: center;
+}
